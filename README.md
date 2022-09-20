@@ -9,7 +9,7 @@
 
 10.1. [Аналоговая и цифровая телефонная связь.](https://github.com/netology-code/ipnt-homeworks/blob/main/10-01.md)
 
-10.2. [Основы IP-телефонии.]()
+10.2. [Основы IP-телефонии.](https://github.com/netology-code/ipnt-homeworks/blob/main/10-02.md)
 
 10.3. [Основы работы с телефонией Cisco. ]()
 
