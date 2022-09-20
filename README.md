@@ -15,4 +15,4 @@
 
 10.4. [Основы работы с Asterisk.](https://github.com/netology-code/ipnt-homeworks/blob/main/10-04.md)
 
-10.5. [Интеграция голосовых сервисов в сеть передачи данных.]()
+10.5. [Интеграция голосовых сервисов в сеть передачи данных.](https://github.com/netology-code/ipnt-homeworks/blob/main/10-05.md)
