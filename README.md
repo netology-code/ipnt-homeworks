@@ -11,7 +11,7 @@
 
 10.2. [Основы IP-телефонии.](https://github.com/netology-code/ipnt-homeworks/blob/main/10-02.md)
 
-10.3. [Основы работы с телефонией Cisco. ]()
+10.3. [Основы работы с телефонией Cisco. ](https://github.com/netology-code/ipnt-homeworks/blob/main/10-03.md)
 
 10.4. [Основы работы с Asterisk.](https://github.com/netology-code/ipnt-homeworks/blob/main/10-04.md)
 
