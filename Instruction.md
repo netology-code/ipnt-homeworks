@@ -224,10 +224,10 @@ https://downloads.asterisk.org/pub/telephony/certified-asterisk/asterisk-certifi
 
 ### Описание использования текстового редактора nano
 
-ctrl+x – закрыть текстовый редактор,
-ctrl+o – сохранить изменения в файле,
-ctrl+w – поиск по файлу,
-#- внутри текста логически закрывает применение настроек данной строки, используется для комментариев,
+ctrl+x – закрыть текстовый редактор,   
+ctrl+o – сохранить изменения в файле,   
+ctrl+w – поиск по файлу,   
+#- внутри текста логически закрывает применение настроек данной строки, используется для комментариев.   
 
 Полное описание: https://www.opennet.ru/man.shtml?topic=nano&category=1&russian=2
 Пример How-to: https://losst.pro/tekstovyj-redaktor-nano-v-linux-dlya-novichkov
